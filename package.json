@@ -1,0 +1,8 @@
+{
+    "name": "grunt-sprite",
+    "version": "0.1.1",
+    "devDependencies": {
+        "grunt": "~0.4.5",
+        "grunt-contrib-compass": "~1.0.1"
+    }
+}
