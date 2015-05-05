@@ -1,0 +1,192 @@
+/* line 17, ../sass/retina-auto-sprites.scss */
+.icon-douban, .icon-douban_hover, .icon-email, .icon-email_hover, .icon-path, .icon-path_hover, .icon-reddit, .icon-reddit_hover, .icon-wechat, .icon-wechat_hover, .icon-weibo, .icon-weibo_hover {
+  background-image: url('../images/icons-sa06004fc5b.png');
+}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min--moz-device-pixel-ratio: 1.5), (-o-min-device-pixel-ratio: 3 / 2), (min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  /* line 17, ../sass/retina-auto-sprites.scss */
+  .icon-douban, .icon-douban_hover, .icon-email, .icon-email_hover, .icon-path, .icon-path_hover, .icon-reddit, .icon-reddit_hover, .icon-wechat, .icon-wechat_hover, .icon-weibo, .icon-weibo_hover {
+    background-image: url('../images/icons2x-s5faeec4f90.png');
+  }
+}
+
+/* line 26, ../sass/retina-auto-sprites.scss */
+.icon-douban {
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  width: 24px;
+  height: 24px;
+}
+
+/* line 26, ../sass/retina-auto-sprites.scss */
+.icon-douban_hover {
+  background-repeat: no-repeat;
+  background-position: 0 -24px;
+  width: 24px;
+  height: 24px;
+}
+
+/* line 26, ../sass/retina-auto-sprites.scss */
+.icon-email {
+  background-repeat: no-repeat;
+  background-position: 0 -48px;
+  width: 24px;
+  height: 24px;
+}
+
+/* line 26, ../sass/retina-auto-sprites.scss */
+.icon-email_hover {
+  background-repeat: no-repeat;
+  background-position: 0 -72px;
+  width: 25px;
+  height: 24px;
+}
+
+/* line 26, ../sass/retina-auto-sprites.scss */
+.icon-path {
+  background-repeat: no-repeat;
+  background-position: 0 -96px;
+  width: 24px;
+  height: 24px;
+}
+
+/* line 26, ../sass/retina-auto-sprites.scss */
+.icon-path_hover {
+  background-repeat: no-repeat;
+  background-position: 0 -120px;
+  width: 24px;
+  height: 24px;
+}
+
+/* line 26, ../sass/retina-auto-sprites.scss */
+.icon-reddit {
+  background-repeat: no-repeat;
+  background-position: 0 -144px;
+  width: 24px;
+  height: 24px;
+}
+
+/* line 26, ../sass/retina-auto-sprites.scss */
+.icon-reddit_hover {
+  background-repeat: no-repeat;
+  background-position: 0 -168px;
+  width: 24px;
+  height: 24px;
+}
+
+/* line 26, ../sass/retina-auto-sprites.scss */
+.icon-wechat {
+  background-repeat: no-repeat;
+  background-position: 0 -192px;
+  width: 24px;
+  height: 24px;
+}
+
+/* line 26, ../sass/retina-auto-sprites.scss */
+.icon-wechat_hover {
+  background-repeat: no-repeat;
+  background-position: 0 -216px;
+  width: 24px;
+  height: 24px;
+}
+
+/* line 26, ../sass/retina-auto-sprites.scss */
+.icon-weibo {
+  background-repeat: no-repeat;
+  background-position: 0 -240px;
+  width: 24px;
+  height: 24px;
+}
+
+/* line 26, ../sass/retina-auto-sprites.scss */
+.icon-weibo_hover {
+  background-repeat: no-repeat;
+  background-position: 0 -264px;
+  width: 24px;
+  height: 24px;
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5), (min--moz-device-pixel-ratio: 1.5), (-o-min-device-pixel-ratio: 3 / 2), (min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  /* line 38, ../sass/retina-auto-sprites.scss */
+  .icon-douban {
+    background-size: 25px 288px;
+    width: 24px;
+    height: 24px;
+  }
+
+  /* line 38, ../sass/retina-auto-sprites.scss */
+  .icon-douban_hover {
+    background-size: 25px 288px;
+    width: 24px;
+    height: 24px;
+  }
+
+  /* line 38, ../sass/retina-auto-sprites.scss */
+  .icon-email {
+    background-size: 25px 288px;
+    width: 24px;
+    height: 24px;
+  }
+
+  /* line 38, ../sass/retina-auto-sprites.scss */
+  .icon-email_hover {
+    background-size: 25px 288px;
+    width: 25px;
+    height: 24px;
+  }
+
+  /* line 38, ../sass/retina-auto-sprites.scss */
+  .icon-path {
+    background-size: 25px 288px;
+    width: 24px;
+    height: 24px;
+  }
+
+  /* line 38, ../sass/retina-auto-sprites.scss */
+  .icon-path_hover {
+    background-size: 25px 288px;
+    width: 24px;
+    height: 24px;
+  }
+
+  /* line 38, ../sass/retina-auto-sprites.scss */
+  .icon-reddit {
+    background-size: 25px 288px;
+    width: 24px;
+    height: 24px;
+  }
+
+  /* line 38, ../sass/retina-auto-sprites.scss */
+  .icon-reddit_hover {
+    background-size: 25px 288px;
+    width: 24px;
+    height: 24px;
+  }
+
+  /* line 38, ../sass/retina-auto-sprites.scss */
+  .icon-wechat {
+    background-size: 25px 288px;
+    width: 24px;
+    height: 24px;
+  }
+
+  /* line 38, ../sass/retina-auto-sprites.scss */
+  .icon-wechat_hover {
+    background-size: 25px 288px;
+    width: 24px;
+    height: 24px;
+  }
+
+  /* line 38, ../sass/retina-auto-sprites.scss */
+  .icon-weibo {
+    background-size: 25px 288px;
+    width: 24px;
+    height: 24px;
+  }
+
+  /* line 38, ../sass/retina-auto-sprites.scss */
+  .icon-weibo_hover {
+    background-size: 25px 288px;
+    width: 24px;
+    height: 24px;
+  }
+}

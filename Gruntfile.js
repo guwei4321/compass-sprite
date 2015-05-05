@@ -7,13 +7,14 @@ module.exports = function(grunt) {
         compass: {
             main: {
                 options: {
+                    http_path: "/",
                     sassDir: 'sass',
                     cssDir: 'css',
                     imagesDir: 'images',
                     spriteLoadPath: 'images/sprites',
-                    relativeAssets: false,
-                    debugInfo: true,
-                    noLineComments: true,
+                    relativeAssets: true,
+                    debugInfo: false,
+                    noLineComments: false,
                     assetCacheBuster: false
                 }
             }

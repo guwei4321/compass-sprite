@@ -1,0 +1,7 @@
+@import "compass/utilities/sprites";
+
+@import "icons2x/*.png";
+
+@each $icon in douban, email, path, reddit, wechat, weibo {
+    @include icons2x-sprites(#{$icon});
+}
